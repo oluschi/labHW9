@@ -1,0 +1,50 @@
+/* Add your custom styles here */
+body {
+	background-color: blue;
+}
+
+img{
+	width: 25%;
+	display: flex;
+	margin: auto;
+	padding-top: 100px;
+	border: 6px solid white;
+}
+
+h1{
+	color:white;
+	text-align:  center;
+	font-family:Helvetica;
+	font-size:50pt;
+	border: 8px solid white;
+}
+
+
+h2{
+	font-family: 'Helvetica', sans-serif;
+	color: white;
+  	font-weight: 600;
+	font-size: 50px;
+	text-align: left;
+	line-height: 80%;
+	text-decoration: underline;
+}
+
+h3{
+	font-family: 'Helvetica', sans-serif;
+	color: white;
+  	font-weight: 600;
+  	font-size:30px;
+  	color:#80e5ff;
+}
+
+
+p{
+	text-align: left;
+  	font-family: ;
+	color: white;
+	font-size: 18px;
+	line-height: 110%;
+}
+
+
